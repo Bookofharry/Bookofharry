@@ -21,7 +21,7 @@
 <tr>
 <td width="100%">
 
-Software engineer, technical instructor, and AI systems builder with **4+ years** shipping scalable web and mobile products. Full-stack across React, Next.js, Node.js, and PostgreSQL, with production experience in agentic AI engineering — LLM integration, Model Context Protocol (MCP), multi-agent orchestration, and prompt engineering. Designed and delivered a **25-week Agentic Software Engineering curriculum**, and has led, co-built, and shipped live products across **SaaS, legal tech, marketplace, and healthcare**. Equally strong as an educator — mentoring developers from beginner to job-ready across bootcamp and professional cohorts.
+Software engineer, technical instructor, and AI systems builder with **5+ years** shipping scalable web and mobile products. Full-stack across React, Next.js, Node.js, and PostgreSQL, with production experience in agentic AI engineering — LLM integration, Model Context Protocol (MCP), multi-agent orchestration, and prompt engineering. Designed and delivered a **25-week Agentic Software Engineering curriculum**, and has led, co-built, and shipped live products across **SaaS, legal tech, marketplace, and healthcare**. Equally strong as an educator — mentoring developers from beginner to job-ready across bootcamp and professional cohorts.
 
 </td>
 </tr>
